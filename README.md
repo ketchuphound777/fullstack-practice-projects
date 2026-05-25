@@ -38,8 +38,6 @@ HTML structure
 
 CSS styling and layout
 
-basic JavaScript interactivity (if included)
-
 version tracking and iterative development
 
 Notes
