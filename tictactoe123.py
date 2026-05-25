@@ -45,7 +45,7 @@ def handle_turn(player):
     while not valid:
         position = input("Choose a position from 1-9: ")
 
-        if position not in ["1", "2", "3", "4", "5", "6", "7", "8", "9"]:
+        if position not in ["1","2","3","4","5","6","7","8","9"]:
             print("Invalid input. Pick a number between 1 and 9.")
             continue
 
